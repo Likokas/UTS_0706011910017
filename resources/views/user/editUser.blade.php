@@ -2,7 +2,7 @@
 @section('content')
     <div class="container" style="margin-top: 20px;">
         <div class="row">
-            <h1 class="col">Edit Sepeda</h1>
+            <h1 class="font-weight-bold">Edit Sepeda</h1>
         </div>
         <div class="row">
             <div class="col">

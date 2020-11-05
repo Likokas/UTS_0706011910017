@@ -6,7 +6,7 @@
         </div>
         <div class="row">
             <div class="col-md-2 offset-md-10">
-                <a href="@auth() {{ route('user.create') }} @endauth" class="btn btn-primary btn-block" role="button" aria-pressed="true">Tambah</a>
+                <a href="@auth() {{ route('user.create') }} @endauth" class="btn btn-dark" role="button" aria-pressed="true">Tambah</a>
             </div>
         </div>
         <div class="row" style="margin-top: 30px;">

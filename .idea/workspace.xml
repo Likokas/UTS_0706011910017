@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="770debf8-d2d9-4e1a-b96a-a11c786aa690" name="Default Changelist" comment="" />
+    <list default="true" id="770debf8-d2d9-4e1a-b96a-a11c786aa690" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/Images/designsepeda.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Images/designsepeda2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Images/designsepeda3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Images/designsepeda4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Images/designsepeda5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Images/designsepeda6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/sepeda/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/sepeda/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/user/editUser.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/user/editUser.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +45,9 @@
         <option value="Blade" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -132,6 +163,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1jKQXT055mnkrx5hYx7XZtnu4yn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -151,12 +183,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\UTS_0706011910017\resources\views\user" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\UTS_0706011910017\public\Images" />
+      <recent name="C:\xampp\htdocs\UTS_0706011910017\resources\views" />
       <recent name="C:\xampp\htdocs\UTS_0706011910017\resources\views\sepeda" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\UTS_0706011910017\resources\views" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\UTS_0706011910017\resources\views\user" />
       <recent name="C:\xampp\htdocs\UTS_0706011910017\resources\views\sepeda" />
     </key>
   </component>
@@ -183,12 +216,24 @@
       <workItem from="1603987853044" duration="534000" />
       <workItem from="1604023374066" duration="902000" />
       <workItem from="1604057666804" duration="7570000" />
-      <workItem from="1604559747676" duration="7330000" />
+      <workItem from="1604559747676" duration="7989000" />
+      <workItem from="1604587356398" duration="6557000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="624" y="216" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1603813122803">
@@ -199,10 +244,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604058627084" />
-    <state x="142" y="46" key="SettingsEditor" timestamp="1603813268939">
+    <state x="815" y="422" key="Github.ShareDialog" timestamp="1604568156183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="815" y="422" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604568156183" />
+    <state x="721" y="142" key="Github.UntrackedFilesDialog" timestamp="1604568163627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="142" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604568163627" />
+    <state x="142" y="46" key="SettingsEditor" timestamp="1604568119689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="2192" y="94" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603692608246" />
-    <state x="142" y="46" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603813268939" />
+    <state x="142" y="46" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604568119689" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604591532953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604591532953" />
   </component>
 </project>
